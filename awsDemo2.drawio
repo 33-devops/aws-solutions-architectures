@@ -130,6 +130,9 @@
         <mxCell id="HQJa_a2E954N1-Qt5yur-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SERVERLESS ARCHITECTURE" vertex="1">
           <mxGeometry height="30" width="230" x="240" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="HQJa_a2E954N1-Qt5yur-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IAM Roles/Policies" vertex="1">
+          <mxGeometry height="30" width="60" x="912" y="340" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
