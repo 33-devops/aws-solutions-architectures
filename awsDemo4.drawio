@@ -55,6 +55,12 @@
         <mxCell id="-ZXAPob4pwIjeAaZx7xI-34" parent="-ZXAPob4pwIjeAaZx7xI-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#147EBA;fontStyle=0;" value="VPC-B" vertex="1">
           <mxGeometry height="30" width="60" x="23" as="geometry" />
         </mxCell>
+        <mxCell id="-ZXAPob4pwIjeAaZx7xI-36" parent="-ZXAPob4pwIjeAaZx7xI-3" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.compute;dashPattern=8 8;pointerEvents=0;spacingLeft=30;fontFamily=Helvetica;" value="" vertex="1">
+          <mxGeometry height="78" width="78" x="61" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZXAPob4pwIjeAaZx7xI-37" parent="-ZXAPob4pwIjeAaZx7xI-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#147EBA;fontStyle=0;" value="Analytics&lt;div&gt;application server&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42" width="78" x="63" y="193" as="geometry" />
+        </mxCell>
         <mxCell id="-ZXAPob4pwIjeAaZx7xI-9" parent="-ZXAPob4pwIjeAaZx7xI-1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.identity_and_access_management;" value="" vertex="1">
           <mxGeometry height="78" width="78" x="901" y="279" as="geometry" />
         </mxCell>
