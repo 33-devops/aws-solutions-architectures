@@ -49,6 +49,24 @@
         <mxCell id="sO33mgeEl2_ewcm9kGai-30" parent="sO33mgeEl2_ewcm9kGai-3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.management_console;" value="AWS Management Console" vertex="1">
           <mxGeometry height="120" width="80" x="869" y="-19" as="geometry" />
         </mxCell>
+        <mxCell id="sO33mgeEl2_ewcm9kGai-31" parent="sO33mgeEl2_ewcm9kGai-3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.certificate_manager_3;" value="AWS Certificate Manager" vertex="1">
+          <mxGeometry height="110" width="80" x="10" y="141" as="geometry" />
+        </mxCell>
+        <mxCell id="sO33mgeEl2_ewcm9kGai-35" parent="sO33mgeEl2_ewcm9kGai-3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudfront;" value="Amazon Cloudfront" vertex="1">
+          <mxGeometry height="110" width="80" x="370" y="141" as="geometry" />
+        </mxCell>
+        <mxCell id="sO33mgeEl2_ewcm9kGai-36" parent="sO33mgeEl2_ewcm9kGai-3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.waf;" value="AWS WAF" vertex="1">
+          <mxGeometry height="100" width="80" x="180" y="141" as="geometry" />
+        </mxCell>
+        <mxCell id="sO33mgeEl2_ewcm9kGai-37" parent="sO33mgeEl2_ewcm9kGai-3" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" value="" vertex="1">
+          <mxGeometry height="78" width="78" x="552" y="141" as="geometry" />
+        </mxCell>
+        <mxCell id="sO33mgeEl2_ewcm9kGai-39" parent="sO33mgeEl2_ewcm9kGai-3" style="whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="78" width="739" x="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sO33mgeEl2_ewcm9kGai-40" parent="sO33mgeEl2_ewcm9kGai-3" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_53;" value="" vertex="1">
+          <mxGeometry height="78" width="78" x="90" as="geometry" />
+        </mxCell>
         <mxCell id="sO33mgeEl2_ewcm9kGai-18" parent="1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" value="Availability Zone" vertex="1">
           <mxGeometry height="216" width="190" x="189" y="349" as="geometry" />
         </mxCell>
