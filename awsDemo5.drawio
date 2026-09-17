@@ -127,6 +127,9 @@
         <mxCell id="sO33mgeEl2_ewcm9kGai-51" parent="sO33mgeEl2_ewcm9kGai-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Resources&lt;div&gt;Monitor&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="858" y="397" as="geometry" />
         </mxCell>
+        <mxCell id="sO33mgeEl2_ewcm9kGai-81" parent="sO33mgeEl2_ewcm9kGai-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VPCs&lt;div&gt;Peering&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="635" y="418.5" as="geometry" />
+        </mxCell>
         <mxCell id="sO33mgeEl2_ewcm9kGai-18" parent="1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" value="Availability Zone" vertex="1">
           <mxGeometry height="234" width="258" x="189" y="337" as="geometry" />
         </mxCell>
