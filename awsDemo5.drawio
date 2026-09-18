@@ -149,6 +149,23 @@
         <mxCell id="fHCP-duD4c-_YKtbZMnF-6" edge="1" parent="sO33mgeEl2_ewcm9kGai-3" source="sO33mgeEl2_ewcm9kGai-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.399;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#147EBA;fontStyle=0;elbow=vertical;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="sO33mgeEl2_ewcm9kGai-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fHCP-duD4c-_YKtbZMnF-9" edge="1" parent="sO33mgeEl2_ewcm9kGai-3" source="sO33mgeEl2_ewcm9kGai-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.933;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#147EBA;fontStyle=0;elbow=vertical;startArrow=classic;startFill=1;strokeWidth=2;" target="sO33mgeEl2_ewcm9kGai-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fHCP-duD4c-_YKtbZMnF-10" edge="1" parent="sO33mgeEl2_ewcm9kGai-3" source="sO33mgeEl2_ewcm9kGai-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.009;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#147EBA;fontStyle=0;elbow=vertical;libavoidRouting=1;strokeWidth=2;" target="sO33mgeEl2_ewcm9kGai-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHCP-duD4c-_YKtbZMnF-11" edge="1" parent="sO33mgeEl2_ewcm9kGai-3" source="sO33mgeEl2_ewcm9kGai-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.028;entryY=0.945;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#147EBA;fontStyle=0;elbow=vertical;libavoidRouting=1;strokeWidth=2;" target="sO33mgeEl2_ewcm9kGai-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="489.7" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sO33mgeEl2_ewcm9kGai-18" parent="1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" value="Availability Zone" vertex="1">
           <mxGeometry height="234" width="258" x="189" y="337" as="geometry" />
         </mxCell>
