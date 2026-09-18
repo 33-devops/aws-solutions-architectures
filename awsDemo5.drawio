@@ -267,6 +267,9 @@
         <mxCell id="fHCP-duD4c-_YKtbZMnF-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;CNAME Record:&lt;/div&gt;user-session.ekrown.com" vertex="1">
           <mxGeometry height="30" width="60" x="886" y="100" as="geometry" />
         </mxCell>
+        <mxCell id="fHCP-duD4c-_YKtbZMnF-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ROUTE53 DUAL-PURPOSE SERVICE + HA + ASG WITH VPC PEERING USING PRIVATE HOSTED ZONE" vertex="1">
+          <mxGeometry height="30" width="610" x="320" y="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
