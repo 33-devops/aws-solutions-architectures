@@ -52,7 +52,7 @@
         <mxCell id="sO33mgeEl2_ewcm9kGai-72" parent="sO33mgeEl2_ewcm9kGai-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Order &amp;amp;&lt;div&gt;Retrival&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="367" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="sO33mgeEl2_ewcm9kGai-73" parent="sO33mgeEl2_ewcm9kGai-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Product&lt;div&gt;Catalog&lt;/div&gt;" vertex="1">
+        <mxCell id="sO33mgeEl2_ewcm9kGai-73" parent="sO33mgeEl2_ewcm9kGai-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Product&lt;div&gt;Catalog&lt;/div&gt;&lt;div&gt;STANDBY&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="535" y="103" as="geometry" />
         </mxCell>
         <mxCell id="sO33mgeEl2_ewcm9kGai-74" parent="sO33mgeEl2_ewcm9kGai-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User&lt;div&gt;Session&lt;/div&gt;" vertex="1">
@@ -237,7 +237,7 @@
         <mxCell id="sO33mgeEl2_ewcm9kGai-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Order &amp;amp;&lt;div&gt;Retrival&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="203" y="421" as="geometry" />
         </mxCell>
-        <mxCell id="sO33mgeEl2_ewcm9kGai-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Product&lt;div&gt;Catalog&lt;/div&gt;" vertex="1">
+        <mxCell id="sO33mgeEl2_ewcm9kGai-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Product&lt;div&gt;Catalog&lt;/div&gt;&lt;div&gt;MAIN&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="365" y="430" as="geometry" />
         </mxCell>
         <mxCell id="sO33mgeEl2_ewcm9kGai-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User&lt;div&gt;Session&lt;/div&gt;" vertex="1">
