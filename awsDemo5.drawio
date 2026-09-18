@@ -182,19 +182,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fHCP-duD4c-_YKtbZMnF-23" parent="sO33mgeEl2_ewcm9kGai-3" style="whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="190" y="9" as="geometry" />
+          <mxGeometry height="48" width="120" x="190" y="21" as="geometry" />
         </mxCell>
         <mxCell id="fHCP-duD4c-_YKtbZMnF-22" parent="sO33mgeEl2_ewcm9kGai-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;CNAME Record:&lt;/div&gt;catalog.ekrown.com" vertex="1">
-          <mxGeometry height="30" width="60" x="220" y="21" as="geometry" />
+          <mxGeometry height="30" width="60" x="220" y="36" as="geometry" />
         </mxCell>
         <mxCell id="fHCP-duD4c-_YKtbZMnF-24" parent="sO33mgeEl2_ewcm9kGai-3" style="whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="60" width="140" x="338" y="9" as="geometry" />
+          <mxGeometry height="48" width="140" x="338" y="21" as="geometry" />
         </mxCell>
         <mxCell id="fHCP-duD4c-_YKtbZMnF-25" parent="sO33mgeEl2_ewcm9kGai-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;CNAME Record:&lt;/div&gt;primarydb.ekrown.com" vertex="1">
-          <mxGeometry height="30" width="60" x="378" y="22" as="geometry" />
+          <mxGeometry height="30" width="60" x="378" y="35" as="geometry" />
         </mxCell>
         <mxCell id="fHCP-duD4c-_YKtbZMnF-29" edge="1" parent="sO33mgeEl2_ewcm9kGai-3" source="sO33mgeEl2_ewcm9kGai-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#147EBA;fontStyle=0;elbow=vertical;strokeWidth=2;" target="sO33mgeEl2_ewcm9kGai-28">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fHCP-duD4c-_YKtbZMnF-32" parent="sO33mgeEl2_ewcm9kGai-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PRIVATE HOSTED ZONE: eKROWN INTERNAL" vertex="1">
+          <mxGeometry height="30" width="298" x="171" y="-3" as="geometry" />
         </mxCell>
         <mxCell id="sO33mgeEl2_ewcm9kGai-18" parent="1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" value="Availability Zone" vertex="1">
           <mxGeometry height="234" width="251" x="189" y="337" as="geometry" />
@@ -253,16 +256,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fHCP-duD4c-_YKtbZMnF-26" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="60" width="140" x="678" y="79" as="geometry" />
+          <mxGeometry height="48" width="140" x="678" y="91" as="geometry" />
         </mxCell>
         <mxCell id="fHCP-duD4c-_YKtbZMnF-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;CNAME Record:&lt;/div&gt;replicadb.ekrown.com" vertex="1">
-          <mxGeometry height="30" width="60" x="718" y="90" as="geometry" />
+          <mxGeometry height="30" width="60" x="718" y="106" as="geometry" />
         </mxCell>
         <mxCell id="fHCP-duD4c-_YKtbZMnF-30" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="60" width="140" x="846" y="79" as="geometry" />
+          <mxGeometry height="48" width="140" x="846" y="91" as="geometry" />
         </mxCell>
         <mxCell id="fHCP-duD4c-_YKtbZMnF-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;CNAME Record:&lt;/div&gt;user-session.ekrown.com" vertex="1">
-          <mxGeometry height="30" width="60" x="886" y="90" as="geometry" />
+          <mxGeometry height="30" width="60" x="886" y="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
