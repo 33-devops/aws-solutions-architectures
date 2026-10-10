@@ -110,6 +110,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rBbGU17qUDMbvhCYoCG3-52" parent="rBbGU17qUDMbvhCYoCG3-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AWS Managed AD&lt;div&gt;Private subnet AD1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="112" x="112.79" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="rBbGU17qUDMbvhCYoCG3-55" parent="rBbGU17qUDMbvhCYoCG3-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Primary FSx&lt;div&gt;Private subnet FSx1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="112" x="114.79000000000002" y="420" as="geometry" />
+        </mxCell>
         <mxCell id="rBbGU17qUDMbvhCYoCG3-32" edge="1" parent="1" source="rBbGU17qUDMbvhCYoCG3-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#147EBA;fontStyle=0;elbow=vertical;startArrow=classic;startFill=1;strokeWidth=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="230" as="targetPoint" />
@@ -144,6 +150,12 @@
         </mxCell>
         <mxCell id="rBbGU17qUDMbvhCYoCG3-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VPN Gateway" vertex="1">
           <mxGeometry height="30" width="60" x="163" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="rBbGU17qUDMbvhCYoCG3-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AWS Managed AD&lt;div&gt;Private subnet AD2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="112" x="651" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="rBbGU17qUDMbvhCYoCG3-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Primary FSx&lt;div&gt;Private subnet FSx2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="112" x="649" y="522" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
