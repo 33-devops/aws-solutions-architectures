@@ -110,7 +110,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rBbGU17qUDMbvhCYoCG3-52" parent="rBbGU17qUDMbvhCYoCG3-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AWS Managed AD&lt;div&gt;Private subnet AD1&lt;/div&gt;" vertex="1">
+        <mxCell id="rBbGU17qUDMbvhCYoCG3-52" parent="rBbGU17qUDMbvhCYoCG3-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AWS Managed AD&lt;div&gt;Private subnet AD&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="112" x="112.79" y="279" as="geometry" />
         </mxCell>
         <mxCell id="rBbGU17qUDMbvhCYoCG3-55" parent="rBbGU17qUDMbvhCYoCG3-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Primary FSx&lt;div&gt;Private subnet FSx1&lt;/div&gt;" vertex="1">
@@ -157,7 +157,7 @@
         <mxCell id="rBbGU17qUDMbvhCYoCG3-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VPN Gateway" vertex="1">
           <mxGeometry height="30" width="60" x="163" y="295" as="geometry" />
         </mxCell>
-        <mxCell id="rBbGU17qUDMbvhCYoCG3-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AWS Managed AD&lt;div&gt;Private subnet AD2&lt;/div&gt;" vertex="1">
+        <mxCell id="rBbGU17qUDMbvhCYoCG3-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AWS Managed AD&lt;div&gt;Private subnet AD&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="112" x="651" y="380" as="geometry" />
         </mxCell>
         <mxCell id="rBbGU17qUDMbvhCYoCG3-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Standby FSx&lt;div&gt;Private subnet FSx2&lt;/div&gt;" vertex="1">
