@@ -172,6 +172,9 @@
         <mxCell id="rBbGU17qUDMbvhCYoCG3-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AWS CloudTrail&lt;div&gt;VPN Auditing&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="956" y="514" as="geometry" />
         </mxCell>
+        <mxCell id="rBbGU17qUDMbvhCYoCG3-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;HA Amazon FSx File Services with AWS Client VPN Remote Access&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;and On-Premises Active Directory Integration Across Two AZs&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="755" x="301" y="17" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
